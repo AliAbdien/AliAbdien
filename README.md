@@ -6,7 +6,7 @@
   - border-radius:10px slightly rounds the corners.
 -->
 <div style="width:100%; height:100px; overflow:hidden; border-radius:10px;">
-  <!-- 
+
     Banner Image:
     - Replaced with the new RAW GitHub URL for banner3.png
     - width:100% ensures full width.
