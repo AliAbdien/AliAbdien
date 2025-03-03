@@ -1,8 +1,7 @@
-<!-- Optional: Add a banner image at the top for a more appealing look -->
-<!-- 
-Example:
-<img src="https://your-banner-link.com" alt="Banner" style="width:100%;"/>
--->
+<!-- Example: AI-Themed Banner -->
+<img src="https://images.unsplash.com/photo-1581091012184-3ba6c5987f44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWl8ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=80" 
+     alt="AI Banner" 
+     style="width:100%; border-radius: 10px;"/>
 
 <h1 align="center">Hi 👋, I'm Ali Abdien</h1>
 <h3 align="center">Data Scientist & AI Engineer specializing in Generative AI</h3>
@@ -97,7 +96,3 @@ Example:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
----
-
-<!-- Feel free to add or remove any sections as needed, such as an "Interests" or "Blog" section. -->
