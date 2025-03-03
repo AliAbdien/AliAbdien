@@ -11,8 +11,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ali Omar</h1>
-<h3 align="center">Data Scientist & AI Engineer specializing in Generative AI</h3>
 
 <p align="center">
   <em>
