@@ -1,4 +1,4 @@
-<!-- يمكنك إضافة بانر (صورة هيدر) هنا إن رغبت -->
+<!-- يمكنك إضافة بانر (صورة هيدر) في الأعلى لتحسين المظهر إن رغبت -->
 <!-- 
 مثال على كيفية إضافة بانر:
 <img src="https://your-banner-link.com" alt="Banner" style="width:100%;"/>
@@ -14,6 +14,25 @@
     Based in Augsburg, Germany.
   </em>
 </p>
+
+<!-- أزرار مختصرة لعرض الـCV والشهادات -->
+<p align="center">
+  <a href="https://bit.ly/AliCV" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge" alt="View My CV" />
+  </a>
+  <a href="https://bit.ly/AliCertificates" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Certificates-green?style=for-the-badge" alt="View Certificates" />
+  </a>
+</p>
+
+---
+
+## Table of Contents
+- [About Me](#about-me)
+- [Skills & Tools](#skills--tools)
+- [Currently Learning](#currently-learning)
+- [Certificates & Achievements](#certificates--achievements)
+- [Contact & Socials](#contact--socials)
 
 ---
 
@@ -53,6 +72,7 @@
 ---
 
 ## Certificates & Achievements
+- يمكنك الاطّلاع على جميع الشهادات من هنا: [View Certificates](https://bit.ly/AliCertificates)  
 - **AWS Academy Data Engineering** – 40 hours (2024)  
 - **CCNAv7: Introduction to Networks** (Cisco, 2022)  
 - **Deep Learning for NLP** (Udemy, 2024)  
@@ -64,7 +84,6 @@
 ## Contact & Socials
 
 <p>
-  <!-- استخدم الشعارات (Badges) للروابط الاجتماعية -->
   <a href="mailto:ali.abdien.omar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -84,4 +103,5 @@
 
 ---
 
-<!-- يمكنك إضافة أو إزالة أي أقسام أخرى حسب رغبتك -->
+<!-- يمكنك إضافة أقسام أخرى أو تعديلها بحسب احتياجاتك -->
+<!-- مثل قسم "Interests" أو "Blog Posts" أو "Community Involvement" أو غير ذلك -->
