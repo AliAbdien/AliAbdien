@@ -1,21 +1,23 @@
 <!-- 
   Fixed-Height Banner Container:
   - width:100% makes the banner full-width.
-  - height:250px sets a fixed vertical size.
-  - overflow:hidden crops any overflow beyond 200px height.
+  - height:100px sets a fixed vertical size.
+  - overflow:hidden crops any overflow beyond 100px height.
   - border-radius:10px slightly rounds the corners.
 -->
 <div style="width:100%; height:100px; overflow:hidden; border-radius:10px;">
-
+  <!-- 
     Banner Image:
-    - Replaced with the new RAW GitHub URL for banner3.png
-    - width:100% ensures full width.
-    - object-fit:cover fills the container, cropping if necessary without distorting.
-    - object-position:center centers the cropping area.
+    - Using the new RAW GitHub URL for banner3.png
+    - width:100% ensures the image spans the entire container width.
+    - object-fit:cover fills the container while cropping if needed without distortion.
+    - object-position:center keeps the cropped area centered horizontally and vertically.
   -->
-  <img src="https://raw.githubusercontent.com/AliAbdien/images-/9bb2afc5c4044bfd34d6d2d14a68108aae4367c8/banner3.png"
-       alt="Banner"
-       style="width:100%; object-fit:cover; object-position:center;" />
+  <img 
+    src="https://raw.githubusercontent.com/AliAbdien/images-/9bb2afc5c4044bfd34d6d2d14a68108aae4367c8/banner3.png"
+    alt="Banner"
+    style="width:100%; object-fit:cover; object-position:center;" 
+  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ali Omar</h1>
