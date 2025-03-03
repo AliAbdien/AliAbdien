@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **NLP , CV , Generative AI**
 
-- 💬 Ask me about **NLP ,DL ,ML**
+- 💬 Ask me about **NLP , DL , ML**
 
 - 📫 How to reach me **ali.abdien.omar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nofJ3tFyxaR1CmQwcIwsX7UKHZFUYQ9g/view?usp=sharing](https://drive.google.com/drive/folders/1NytLFgZgIxnxcfwYePrUvwk6W7oEZeq6?usp=drive_link)
+- 📄 Know about my experiences [View my CV](https://drive.google.com/drive/u/2/folders/1NytLFgZgIxnxcfwYePrUvwk6W7oEZeq6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
