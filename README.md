@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Fixed-Height Banner Container -->
 <div style="width:100%; height:250px; overflow:hidden; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/AliAbdien/images-/4fe853a3cd6e3fe5d8e7205e498a921637020972/banner.png"
+  <img src="https://raw.githubusercontent.com/AliAbdien/images-/blob/504bb671e347340d28e4ca9054c7e10ec404243e/banner.png"
        alt="Banner"
        style="width:100%; object-fit:cover; object-position:center;" />
 </div>
