@@ -24,16 +24,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/AliAbdien3?t=13g7xLmJECGg8jLi8TLPOQ&s=09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/waleedh72102143" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AliAbdien Twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ali-abdien-a0ab45206/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed hussien" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/aliabdien/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AliAbdien LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/aliabdienomar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waleedhussien" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="AliAbdien Kaggle" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_ali_abdeen_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waleedhussien10" height="30" width="40" />
+  <a href="https://www.instagram.com/_ali_abdeen_/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AliAbdien Instagram" height="30" width="40" />
   </a>
 </p>
 
