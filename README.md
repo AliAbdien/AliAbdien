@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/AliAbdien/images-/4fe853a3cd6e3fe5d8e7205e498a921637020972/banner.png" 
      alt="Banner"
-     style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;" />
+     style="width:100%; max-height:200px; object-fit:cover; border-radius:10px;" />
 
 
 <h1 align="center">Hi 👋, I'm Ali Omar</h1>
