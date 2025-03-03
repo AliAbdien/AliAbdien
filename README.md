@@ -1,7 +1,14 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/AliAbdien/images-/4fe853a3cd6e3fe5d8e7205e498a921637020972/banner.png" 
-     alt="Banner"
-     style="width:100%; max-height:50px; object-fit:cover; border-radius:5px;" />
+<!-- Fixed-Height Banner Container -->
+<div style="width:100%; height:250px; overflow:hidden; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/AliAbdien/images-/4fe853a3cd6e3fe5d8e7205e498a921637020972/banner.png"
+       alt="Banner"
+       style="width:100%; object-fit:cover; object-position:center;" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Ali Omar</h1>
+<h3 align="center">Data Scientist & AI Engineer specializing in Generative AI</h3>
+
 
 
 <h1 align="center">Hi 👋, I'm Ali Omar</h1>
