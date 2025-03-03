@@ -1,7 +1,6 @@
-<!-- Banner Image -->
 <!-- Fixed-Height Banner Container -->
 <div style="width:100%; height:250px; overflow:hidden; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/AliAbdien/images-/blob/504bb671e347340d28e4ca9054c7e10ec404243e/banner.png"
+  <img src="https://raw.githubusercontent.com/AliAbdien/images-/504bb671e347340d28e4ca9054c7e10ec404243e/banner.png"
        alt="Banner"
        style="width:100%; object-fit:cover; object-position:center;" />
 </div>
@@ -9,15 +8,13 @@
 <h1 align="center">Hi 👋, I'm Ali Omar</h1>
 <h3 align="center">Data Scientist & AI Engineer specializing in Generative AI</h3>
 
-
-
-
 <p align="center">
   <em>
     Passionate about <strong>Artificial Intelligence, NLP, and Computer Vision</strong>,
     leveraging cutting-edge technologies to solve real-world challenges.
   </em>
 </p>
+
 
 <!-- Quick-access buttons for CV and Certificates (optional) -->
 <p align="center">
