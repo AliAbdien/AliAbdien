@@ -1,6 +1,6 @@
-<!-- يمكنك إضافة بانر (صورة هيدر) في الأعلى لتحسين المظهر إن رغبت -->
+<!-- Optional: Add a banner image at the top for a more appealing look -->
 <!-- 
-مثال على كيفية إضافة بانر:
+Example:
 <img src="https://your-banner-link.com" alt="Banner" style="width:100%;"/>
 -->
 
@@ -9,18 +9,18 @@
 
 <p align="center">
   <em>
-    Passionate about <strong>Generative AI, NLP, and Computer Vision</strong>, 
-    leveraging cutting-edge technologies to solve real-world challenges. 
+    Passionate about <strong>Artificial Intelligence, NLP, and Computer Vision</strong>,
+    leveraging cutting-edge technologies to solve real-world challenges.
     Based in Augsburg, Germany.
   </em>
 </p>
 
-<!-- أزرار مختصرة لعرض الـCV والشهادات -->
+<!-- Quick-access buttons for CV and Certificates -->
 <p align="center">
-  <a href="https://bit.ly/AliCV" target="_blank">
+  <a href="https://drive.google.com/drive/u/2/folders/1NytLFgZgIxnxcfwYePrUvwk6W7oEZeq6" target="_blank">
     <img src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge" alt="View My CV" />
   </a>
-  <a href="https://bit.ly/AliCertificates" target="_blank">
+  <a href="https://drive.google.com/drive/u/2/folders/1mhhIZSjBwWy0WU4dGIIbWPYe-BXm7VDE" target="_blank">
     <img src="https://img.shields.io/badge/-View%20Certificates-green?style=for-the-badge" alt="View Certificates" />
   </a>
 </p>
@@ -37,47 +37,44 @@
 ---
 
 ## About Me
-- AI & Machine Learning Engineer with strong interest in **Generative AI**.  
-- Experienced in **NLP** and **Computer Vision**, aiming to build intelligent systems that make an impact.  
-- Enthusiastic about learning new technologies and contributing to open-source AI projects.
+- AI & Machine Learning Engineer with a strong focus on **Generative AI**.  
+- Experienced in **NLP** and **Computer Vision**, aiming to build intelligent systems that have real-world impact.  
+- Eager to learn new technologies and contribute to open-source AI communities.
 
 ---
 
 ## Skills & Tools
 
 <p>
-  <!-- أمثلة على الشعارات (Badges) للمهارات والأدوات -->
+  <!-- Example badges for your skills and tools -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <!-- أضف أو احذف شعارات حسب رغبتك -->
 </p>
 
 - **Machine Learning & Deep Learning:** TensorFlow, PyTorch, Scikit-learn, Keras  
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Cloud Platforms:** AWS, GCP  
 - **Networking Basics:** CCNA v7 (Cisco)  
-- **Languages:** Python, C++  
-- **Currently Exploring:** LLMs (ChatGPT, T5, etc.), Diffusion Models, Prompt Engineering
+- **Languages:** Python, C++
 
 ---
 
 ## Currently Learning
-- **Generative AI**: LLMs, GANs, Diffusion Models  
-- **Advanced NLP**: Transformers, BERT, GPT  
-- **Cloud Deployment**: AWS & GCP for AI/ML workloads  
+- Exploring **advanced techniques in Generative AI** (model optimization, large-scale training, deployment).  
+- Deepening knowledge in **data engineering** for end-to-end AI pipelines.  
+- Improving **MLOps** skills to streamline model lifecycle and deployment.
 
 ---
 
 ## Certificates & Achievements
-- يمكنك الاطّلاع على جميع الشهادات من هنا: [View Certificates](https://bit.ly/AliCertificates)  
+- For a detailed list of my certifications, please check: [View Certificates](https://drive.google.com/drive/u/2/folders/1mhhIZSjBwWy0WU4dGIIbWPYe-BXm7VDE)  
 - **AWS Academy Data Engineering** – 40 hours (2024)  
 - **CCNAv7: Introduction to Networks** (Cisco, 2022)  
 - **Deep Learning for NLP** (Udemy, 2024)  
-- **Generative AI** (Udemy, 2024)  
-- *More details in my LinkedIn or upon request.*
+- **Generative AI** (Udemy, 2024)
 
 ---
 
@@ -103,5 +100,4 @@
 
 ---
 
-<!-- يمكنك إضافة أقسام أخرى أو تعديلها بحسب احتياجاتك -->
-<!-- مثل قسم "Interests" أو "Blog Posts" أو "Community Involvement" أو غير ذلك -->
+<!-- Feel free to add or remove any sections as needed, such as an "Interests" or "Blog" section. -->
