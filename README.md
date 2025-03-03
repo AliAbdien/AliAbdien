@@ -1,6 +1,19 @@
-<!-- Fixed-Height Banner Container -->
+<!-- 
+  Fixed-Height Banner Container:
+  - width:100% makes the banner full-width.
+  - height:250px sets a fixed vertical size.
+  - overflow:hidden crops any overflow beyond 250px height.
+  - border-radius:10px slightly rounds the corners.
+-->
 <div style="width:100%; height:250px; overflow:hidden; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/AliAbdien/images-/504bb671e347340d28e4ca9054c7e10ec404243e/banner.png"
+  <!-- 
+    Banner Image:
+    - Replaced with the new RAW GitHub URL for banner3.png
+    - width:100% ensures full width.
+    - object-fit:cover fills the container, cropping if necessary without distorting.
+    - object-position:center centers the cropping area.
+  -->
+  <img src="https://raw.githubusercontent.com/AliAbdien/images-/9bb2afc5c4044bfd34d6d2d14a68108aae4367c8/banner3.png"
        alt="Banner"
        style="width:100%; object-fit:cover; object-position:center;" />
 </div>
@@ -14,7 +27,6 @@
     leveraging cutting-edge technologies to solve real-world challenges.
   </em>
 </p>
-
 
 <!-- Quick-access buttons for CV and Certificates (optional) -->
 <p align="center">
