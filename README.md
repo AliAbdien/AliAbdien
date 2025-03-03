@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Abdien </h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-<!-- تم إزالة عداد المشاهدات -->
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AliAbdien" alt="AliAbdien" />
-  </a> 
-</p>
+<!-- تم إزالة عداد المشاهدات وتم إزالة قسم الـ Trophies -->
 
 <p align="left"> 
   <a href="https://twitter.com/https://x.com/waleedh72102143" target="blank">
