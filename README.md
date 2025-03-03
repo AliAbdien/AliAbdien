@@ -1,20 +1,19 @@
-<!-- Example: AI-Themed Banner -->
-<img src="https://images.unsplash.com/photo-1581091012184-3ba6c5987f44?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWl8ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=80" 
-     alt="AI Banner" 
-     style="width:100%; border-radius: 10px;"/>
+<!-- Banner Image -->
+<img src="https://raw.githubusercontent.com/AliAbdien/images-/4fe853a3cd6e3fe5d8e7205e498a921637020972/banner.png" 
+     alt="Banner"
+     style="width:100%; border-radius:10px;" />
 
-<h1 align="center">Hi 👋, I'm Ali Abdien</h1>
+<h1 align="center">Hi 👋, I'm Ali Omar</h1>
 <h3 align="center">Data Scientist & AI Engineer specializing in Generative AI</h3>
 
 <p align="center">
   <em>
     Passionate about <strong>Artificial Intelligence, NLP, and Computer Vision</strong>,
     leveraging cutting-edge technologies to solve real-world challenges.
-    Based in Augsburg, Germany.
   </em>
 </p>
 
-<!-- Quick-access buttons for CV and Certificates -->
+<!-- Quick-access buttons for CV and Certificates (optional) -->
 <p align="center">
   <a href="https://drive.google.com/drive/u/2/folders/1NytLFgZgIxnxcfwYePrUvwk6W7oEZeq6" target="_blank">
     <img src="https://img.shields.io/badge/-View%20My%20CV-blue?style=for-the-badge" alt="View My CV" />
