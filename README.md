@@ -2,10 +2,10 @@
   Fixed-Height Banner Container:
   - width:100% makes the banner full-width.
   - height:250px sets a fixed vertical size.
-  - overflow:hidden crops any overflow beyond 250px height.
+  - overflow:hidden crops any overflow beyond 200px height.
   - border-radius:10px slightly rounds the corners.
 -->
-<div style="width:100%; height:250px; overflow:hidden; border-radius:10px;">
+<div style="width:100%; height:200px; overflow:hidden; border-radius:10px;">
   <!-- 
     Banner Image:
     - Replaced with the new RAW GitHub URL for banner3.png
